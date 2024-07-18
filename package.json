@@ -1,0 +1,10 @@
+{
+  "name": "@dhau/msw-aws-cognito",
+  "version": "0.0.1",
+  "type": "module",
+  "author": "",
+  "devDependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.616.0",
+    "typescript": "^5.5.3"
+  }
+}
